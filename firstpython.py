@@ -1,0 +1,2 @@
+#firstpython
+print("Hello Python!")
